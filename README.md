@@ -10,7 +10,9 @@ Accountancy, Business and Management (ABM Strand) - Gardner College Cainta (2022
 | Accountancy, Business and Management (ABM Strand) | Gardner College Cainta | 2022 - 2024 | WITH HONORS, BEST RESEARCH IN ABM |
 
 ## 📜 Certifications  
-- [Certification Name](https://courses.cognitiveclass.ai/certificates/e63396a0d55d48e6b90d67fe8954d743) - SQL and Relational Databases 101 (2025)
+- [SQL and Relational Databases 101 (2025)](https://courses.cognitiveclass.ai/certificates/e63396a0d55d48e6b90d67fe8954d743) 
+- [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7910099&trackId=OCI25FNDCFA&key=2c41402d13fc1c9df3bc96c4ead62987ef2d3cd3)
+
 
 ## 🛠️ Skillsets
 

@@ -11,8 +11,8 @@ Accountancy, Business and Management (ABM Strand) - Gardner College Cainta (2022
 
 ## 📜 Certifications  
 - [SQL and Relational Databases 101 (2025)](https://courses.cognitiveclass.ai/certificates/e63396a0d55d48e6b90d67fe8954d743) 
-- [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](file:///C:/Users/carlw/Downloads/eCertificate.pdf)
-- [Oracle Data Platform Foundations Associate](file:///C:/Users/carlw/Downloads/eCertificate.pdf)
+- [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https:///C:/Users/carlw/Downloads/eCertificate.pdf)
+- [Oracle Data Platform Foundations Associate](https:///C:/Users/carlw/Downloads/eCertificate.pdf)
 
 
 ## 🛠️ Skillsets

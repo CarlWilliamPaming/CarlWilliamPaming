@@ -15,6 +15,7 @@ Accountancy, Business and Management (ABM Strand) - Gardner College Cainta (2022
 | SQL and Relational Databases 101 (2025) | Cognitive Class (IBM) | NOV 2025 | [View Cert](https://courses.cognitiveclass.ai/certificates/e63396a0d55d48e6b90d67fe8954d743) |
 | Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle | DEC 2025 | [View Cert](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2D7D08379F849D21A742F15286DE651FA8FDA16161AA068B008E6579C555351E) |
 | Oracle Data Platform Foundations Associate | Oracle | DEC 2025 | [View Cert](https://catalog-education.oracle.com/ords/certview/sharebadge?id=735A755BEBBF05EEE19B0BEF26261C952CB784276B2D87B72873D973725FA296) |
+| Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle | DEC 2025 | [View Cert]() |
 
 ## 🛠️ Skillsets
 
